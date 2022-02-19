@@ -13,7 +13,7 @@ It has the following capabilities:
   Used:
 
 * All OOP concepts including:
-                               * Inheritance, Polymorphism, Abstraction, Encapsulation   
+                               Inheritance, Polymorphism, Abstraction, Encapsulation   
 
 Key concepts used: 
                               * Constructors, Destructors, Operator Overloading
