@@ -10,7 +10,7 @@ It has the following capabilities:
 
 
 
-** Used:**
+Used:
 
 * All OOP concepts including:   Inheritance, Polymorphism, Abstraction, Encapsulation   
                              
