@@ -1,0 +1,18 @@
+﻿  Source.cpp
+C:\Users\rober\OneDrive\Desktop\CALCULATOR_PROJECT\Source.cpp(178,14): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\rober\OneDrive\Desktop\CALCULATOR_PROJECT\Source.cpp(418,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rober\OneDrive\Desktop\CALCULATOR_PROJECT\Source.cpp(612,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rober\OneDrive\Desktop\CALCULATOR_PROJECT\Source.cpp(640,13): warning C4101: 'j': unreferenced local variable
+C:\Users\rober\OneDrive\Desktop\CALCULATOR_PROJECT\Source.cpp(728,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rober\OneDrive\Desktop\CALCULATOR_PROJECT\Source.cpp(818,13): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\rober\OneDrive\Desktop\CALCULATOR_PROJECT\Source.cpp(860,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rober\OneDrive\Desktop\CALCULATOR_PROJECT\Source.cpp(962,18): warning C4101: 'k': unreferenced local variable
+C:\Users\rober\OneDrive\Desktop\CALCULATOR_PROJECT\Source.cpp(962,15): warning C4101: 'j': unreferenced local variable
+C:\Users\rober\OneDrive\Desktop\CALCULATOR_PROJECT\Source.cpp(482): warning C4715: 'StivaCaractere::push': not all control paths return a value
+C:\Users\rober\OneDrive\Desktop\CALCULATOR_PROJECT\Source.cpp(560): warning C4715: 'StivaNumere::push': not all control paths return a value
+C:\Users\rober\OneDrive\Desktop\CALCULATOR_PROJECT\Source.cpp(780): warning C4715: 'Calcul::operator=': not all control paths return a value
+C:\Users\rober\OneDrive\Desktop\CALCULATOR_PROJECT\Source.cpp(874): warning C4715: 'EvaluatorEcuatie::operator[]': not all control paths return a value
+C:\Users\rober\OneDrive\Desktop\CALCULATOR_PROJECT\Source.cpp(935): warning C4715: 'EvaluatorEcuatie::operator=': not all control paths return a value
+C:\Users\rober\OneDrive\Desktop\CALCULATOR_PROJECT\Source.cpp(1055): warning C4715: 'Rezultat::operator=': not all control paths return a value
+C:\Users\rober\OneDrive\Desktop\CALCULATOR_PROJECT\Source.cpp(1212): warning C4715: 'FisBin::operator=': not all control paths return a value
+  CALCULATOR_PROJECT.vcxproj -> C:\Users\rober\OneDrive\Desktop\CALCULATOR_PROJECT\Debug\CALCULATOR_PROJECT.exe
