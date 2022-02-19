@@ -18,8 +18,7 @@ Key concepts used:
   * Constructors, Destructors, Operator Overloading
   * Pure Virtual Functions
   * Abstract Classes
-  * Interfaces
-  * Inheritance, Polymorphism, Abstraction, Encapsulation
+  * Interface
   * STL
 
 
