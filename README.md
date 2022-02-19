@@ -12,16 +12,15 @@ It has the following capabilities:
 
   Used:
 
-* All OOP concepts including:
-                               Inheritance, Polymorphism, Abstraction, Encapsulation   
-
+* All OOP concepts including:   Inheritance, Polymorphism, Abstraction, Encapsulation   
+                             
 Key concepts used: 
-                              * Constructors, Destructors, Operator Overloading
-                              * Pure Virtual Functions
-                              * Abstract Classes
-                              * Interfaces
-                              * Inheritance, Polymorphism, Abstraction, Encapsulation
-                              * STL
+  * Constructors, Destructors, Operator Overloading
+  * Pure Virtual Functions
+  * Abstract Classes
+  * Interfaces
+  * Inheritance, Polymorphism, Abstraction, Encapsulation
+  * STL
 
 
 
